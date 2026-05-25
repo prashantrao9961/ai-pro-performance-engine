@@ -1,6 +1,4 @@
-Here’s a **clean, production-quality `README.md`** you can directly use for your GitHub repo. It’s written like a real open-source project with clear structure, docs, and safe disclaimers.
 
-***
 
 # 🚀 AI Pro Performance + Stealth + VPN Engine (Windows)
 
