@@ -1,0 +1,13 @@
+# Logs
+*.log
+*.txt
+
+# Temp files
+*.tmp
+
+# PowerShell history
+ConsoleHost_history.txt
+
+# OS
+Thumbs.db
+.DS_Store
